@@ -2,7 +2,7 @@
 
 Are you tired of the ugly long URLs to send to your friends? Fear not! You can create a small, cute URL here or even better generate a QR code that you can share freely in this Beatifylly designed modern app built with Svelte, TypeScript and Tailwind CSS (skeleton-ui).
 
-Check it out here: [https://color-palette-gen.vercel.app/](https://color-palette-gen.vercel.app/)
+Check it out here: [https://better-url.vercel.app/](https://better-url.vercel.app/)
 
 ### Features
 
@@ -15,7 +15,7 @@ Check it out here: [https://color-palette-gen.vercel.app/](https://color-palette
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Skeleton-ui](https://img.shields.io/badge/-Skeleton-UI-000000?style=for-the-badge&logoColor=white)
+![Skeleton-ui](https://img.shields.io/badge/-Skeleton_UI-000000?style=for-the-badge&logoColor=white)
 
 ### How to run
 
