@@ -1,6 +1,6 @@
 ## Better URL
 
-Are you tired of the ugly long URLs to send to your friends? Fear not! You can create a small, cute URL here or even better generate a QR code that you can share freely in this Beatifylly designed modern app built with Svelte, TypeScript and Tailwind CSS (skeleton-ui).
+Are you tired of the ugly long URLs to send to your friends? Fear not! You can create a small, cute URL here or even better generate a QR code that you can share freely in this Beautifully designed modern app built with Svelte, TypeScript and Tailwind CSS (skeleton-ui).
 
 Check it out here: [https://better-url.vercel.app/](https://better-url.vercel.app/)
 
