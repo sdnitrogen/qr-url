@@ -58,8 +58,12 @@
 	};
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center gap-12">
-	<div class="flex flex-col items-start justify-start space-y-5 w-[32rem] h-[30rem]">
+<div
+	class="container h-full mx-auto flex max-[800px]:flex-col justify-center items-center gap-12 max-[800px]:my-16"
+>
+	<div
+		class="flex flex-col items-start justify-start space-y-5 w-[32rem] h-[30rem] max-[800px]:h-auto max-[800px]:w-[22rem]"
+	>
 		<h2 class="h2">Better URL</h2>
 		<p>
 			Enter the URL of your site to get a custom QR code and <code class="code text-sm"
@@ -77,7 +81,7 @@
 			<button type="submit" class="btn variant-filled my-4">Generate</button>
 		</form>
 	</div>
-	<span class="divider-vertical h-[35rem] m-0" />
+	<span class="divider-vertical h-[35rem] m-0 max-[800px]:hidden" />
 	<div
 		class="flex flex-col items-center justify-start card variant-ghost-error w-80 h-[30rem] shadow-xl p-8 gap-8"
 	>
